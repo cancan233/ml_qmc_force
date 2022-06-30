@@ -1,12 +1,12 @@
 # Machine Learning Diffusion Monte Carlo Forces
 
-In this repository, we provides all necessary files to reproduce our work in "Machine Learning Diffusion Monte Carlo Foreces". 
+In this repository, we provide all necessary files to reproduce our work in "Machine Learning Diffusion Monte Carlo Forces". 
 
 ## Environment Setup
 
-Necessary softwares:
+Necessary software:
 
-- QMCPack
+- QMCPACK
 - QuantumESPRESSO
 - PySCF
 - AMPtorch
@@ -15,13 +15,13 @@ For python environment, we follow the setup tutorial [here](https://github.com/u
 
 ## Training and Test Dataset
 
-A compressed `.zip` file including all training and test dataset are provided in below link. 
+Due to the file size limit by Github, an extra compressed `.zip` file including all training and test dataset are provided in below link. 
 
 https://drive.google.com/file/d/1NJuZSZlur-7os5HtXxOKgpmXuZxWtqjF/view?usp=sharing
 
 ## Scripts
 
-The repository is organized based on the examples we studied in our work. You can find the example related python scripts in each example subfolder. 
+The repository is organized based on the examples we studied in our work. You can find the example-related python scripts in each example subfolder. 
 
 For example,
 
